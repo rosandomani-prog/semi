@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Iuran Badminton</string>
+    <string name="title_activity_main">Iuran Badminton</string>
+    <string name="package_name">com.pbsemi.iuranbadminton</string>
+    <string name="custom_url_scheme">com.pbsemi.iuranbadminton</string>
+</resources>

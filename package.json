@@ -1,0 +1,19 @@
+{
+  "name": "iuran-badminton",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Iuran Badminton PB. Semi - aplikasi Android offline",
+  "scripts": {
+    "sync": "cap sync android",
+    "open": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.6.10",
+    "@capacitor/cli": "^7.6.10",
+    "@capacitor/core": "^7.6.10",
+    "@capacitor/filesystem": "^7.1.9",
+    "@capacitor/share": "^7.0.4",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.8.2"
+  }
+}

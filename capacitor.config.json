@@ -1,0 +1,6 @@
+{
+  "appId": "com.pbsemi.iuranbadminton",
+  "appName": "Iuran Badminton",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
